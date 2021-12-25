@@ -50,7 +50,9 @@ My goal is to help people achieve their dreams and live life on the edge, in the
 ## Commits
  
 <div align="center">
+  
   ![Snake animation](https://github.com/hugolegramandi/hugolegramandi/blob/output/github-contribution-grid-snake.svg)
+
 </div> 
 
 
