@@ -21,8 +21,8 @@ My goal in life is to help people realize their dreams and projects around the w
 
 ## Resume
 
-- 🔭 I’m currently working on off-site construction at Brazil and EUA
-- 🌱 I’m currently learning Full Stack Development
+- 🔭 I’m currently working on off-site construction at Brazil
+- 🌱 I’m currently learning Full Stack Development and Digital Design
 - 👯 I’m looking to collaborate on worldwide projects
 - 🤔 I’m looking for help with focused learning
 - 💬 Ask me about anything, i'll love to share something
@@ -40,11 +40,11 @@ My goal in life is to help people realize their dreams and projects around the w
 
 Professionally I just want to build something that can provide direction for all my goals without taking away from my peace.
 
-I am 24 years old, I have been working for 6 years as an Educational Robotics teacher, where I became the coach of the PINGOSTORMS team, which got national prominence and an award for best innovative solution for cities of the future, among other achievements.
+I am 24 years old, I have been working for 7 years as an Educational Robotics teacher, where I became the coach of the PINGOSTORMS team, which got national prominence and an award for best innovative solution for cities of the future, among other achievements.
 
 Graduated in Civil Engineering, having developed my TCC in Modular Construction and taking a post-graduate course in Off-site Construction at the ITIE - Institute of Building Industrialization Technologies. Currently working as a consultant for project development and direction aiming at a disruption in Civil Construction.
 
-Having experience with programming and ease of learning new software, I am currently learning Full Stack Development with HTML, CSS and Javascript through Resilia Educação.
+Having experience with programming and ease of learning new software, I am currently learning Full Stack Development with HTML, CSS and Javascript.
 
 Something interesting to share with me? You can offer me coffee, no sugar please.
 
